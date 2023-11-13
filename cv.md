@@ -12,8 +12,13 @@
 * VS Code
 * Figma
 ## Code examples:
+`function greet() {
+  return 'hello world!';
+};`
 ## Work experience:
 ## Education:
+VITEBSK STATE ORDER OF PEOPLES’ FRIENDSHIP MEDICAL UNIVERSITY
+ - Pharmaceutical Faculty 
 ## Languages: 
 * **English** (Pre-Intermediate)
 * **Rusian** (Native)
