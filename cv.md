@@ -4,6 +4,7 @@
 * Discord: asmittablack
 * Telegram: @Viavall
 ## About me:
+My core strengths are good interpersonal skills and fast learning. I am  a hard working and always willing to learn new skills. 
 ## Skills:
 * HTML
 * CSS
