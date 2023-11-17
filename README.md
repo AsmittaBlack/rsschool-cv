@@ -1,1 +1,1 @@
-https://AsmittaBlack.github.io/rsschool-cv/cv
+https://AsmittaBlack.github.io/rsschool-cv/
